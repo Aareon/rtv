@@ -2,6 +2,7 @@
 RTV Changelog
 =============
 
+.. _1.27.1: http://github.com/Aareon/rtv/releases/tag/v1.27.1
 .. _1.27.0: http://github.com/michael-lazar/rtv/releases/tag/v1.27.0
 .. _1.26.0: http://github.com/michael-lazar/rtv/releases/tag/v1.26.0
 .. _1.25.1: http://github.com/michael-lazar/rtv/releases/tag/v1.25.1
@@ -40,6 +41,20 @@ RTV Changelog
 .. _1.2.2: http://github.com/michael-lazar/rtv/releases/tag/v1.2.2
 .. _1.2.1: http://github.com/michael-lazar/rtv/releases/tag/v1.2.1
 .. _1.2: http://github.com/michael-lazar/rtv/releases/tag/v1.2
+
+--------------------
+1.27.1_ (2019-06-03)
+--------------------
+
+Forked from https://github.com/michael-lazar/rtv
+
+See here for more information as to why:
+
+https://github.com/michael-lazar/rtv/issues/696
+
+Changes
+
+* Incremented version number to separate `rtv` from `rtv2`
 
 --------------------
 1.27.0_ (2019-06-02)
