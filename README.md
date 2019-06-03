@@ -14,13 +14,13 @@ A text-based interface (TUI) to view and interact with Reddit from your terminal
 
 <p align="center">
   <a href="https://pypi.python.org/pypi/rtv/">
-    <img alt="pypi" src="https://img.shields.io/pypi/v/rtv.svg?label=version"/>
+    <img alt="pypi" src="https://img.shields.io/pypi/v/rtv2.svg?label=version"/>
   </a>
   <a href="https://travis-ci.org/michael-lazar/rtv">
     <img alt="travis-ci" src="https://travis-ci.org/michael-lazar/rtv.svg?branch=master"/>
   </a>
   <a href="https://repology.org/project/rtv/versions">
-    <img src="https://repology.org/badge/tiny-repos/rtv.svg" alt="Packaging status">
+    <img src="https://repology.org/badge/tiny-repos/rtv2.svg" alt="Packaging status">
   </a>
   <a href="https://coveralls.io/github/michael-lazar/rtv?branch=master">
     <img alt="coveralls" src="https://coveralls.io/repos/michael-lazar/rtv/badge.svg?branch=master&service=github"/>
@@ -95,7 +95,7 @@ $ python setup.py install
 
 ### Windows
 
-RTV is not supported on Windows, due to a lack of resources and interest. Sorry!
+Soon™
 
 ## Usage
 
